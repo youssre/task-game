@@ -130,7 +130,7 @@ export default {
 }
 .longnum{
     color: #edb845;
-    font-size: 18px;
+    font-size: 16px;
 }
 .longtext{
     word-break: break-all;
