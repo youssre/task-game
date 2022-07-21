@@ -116,7 +116,7 @@ export default {
 }
 .subtitle{
     color: #edb845;
-    font-size: 24px;
+    font-size: 20px;
 }
 .ken{
     margin-left: 10px;
