@@ -7,7 +7,7 @@
             <div class="container">
                 <p class="subtitle lead">Hot Game</p>
                 <swiper class="mb-3"></swiper>
-                <div class="row py-2 d-flex flex-row justify-content-between">
+                <div class="row d-flex flex-row justify-content-between">
                     <div class="d-flex align-items-center col-5">
                         <img class="" src="@/assets/ho_mo.png" alt="">
                         <div class="ken">
@@ -130,7 +130,7 @@ export default {
 }
 .longnum{
     color: #edb845;
-    font-size: 16px;
+    font-size: 18px;
 }
 .longtext{
     word-break: break-all;
