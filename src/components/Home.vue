@@ -12,7 +12,7 @@
                         <img class="" src="@/assets/ho_mo.png" alt="">
                         <div class="ken">
                             <div class="ken2"><span>KEN </span><img src="@/assets/ho_vi.png" alt=""><span class="num"> 7</span></div>
-                            <div>$ <span class="longnum">122121233</span></div>
+                            <div>$<span class="longnum">122121233</span></div>
                         </div>
                     </div>
                     <div class="col-1">
